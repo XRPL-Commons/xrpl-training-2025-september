@@ -1,5 +1,5 @@
-# XRPL Commons training materials - 29/30 April 2024
-This repo contains training links and materials supporting the Arpil 2024 XRPL Training by XRPL Commons.
+# XRPL Commons training materials - 24/25 April 2024
+This repo contains training links and materials supporting the June 2024 XRPL Training by XRPL Commons.
 
 ## Main links
 
