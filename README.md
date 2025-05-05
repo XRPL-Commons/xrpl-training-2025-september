@@ -1,4 +1,4 @@
-# XRPL Commons training materials - May 5ht and 6th 2025
+# XRPL Commons training materials - May 5th and 6th 2025
 This repo contains training links and materials supporting the May 2025 XRPL Training by XRPL Commons.
 
 
