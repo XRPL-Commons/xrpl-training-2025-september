@@ -1,4 +1,4 @@
-# XRPL Commons training materials - Septmber 29th and 30th 2025
+# XRPL Commons training materials - September 29th and 30th 2025
 This repo contains training links and materials supporting the September 2025 XRPL Training by XRPL Commons held at Ecole 42.
 
 
