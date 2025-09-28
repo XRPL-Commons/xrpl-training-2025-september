@@ -1,5 +1,5 @@
 # XRPL Commons training materials - Septmber 29th and 30th 2025
-This repo contains training links and materials supporting the May 2025 XRPL Training by XRPL Commons.
+This repo contains training links and materials supporting the September 2025 XRPL Training by XRPL Commons held at Ecole 42.
 
 
 ## Coding Activities 
@@ -31,6 +31,8 @@ Training live sync: https://trainings.xrpl.at (password is training-april-2024)
 
 
 ## Further reading
+
+Initial forum discussion on bitcoin without mining that lead to the XRPL: https://bitcointalk.org/index.php?topic=10193.0
 
 Main XRPL Documentation: https://xrpl.org
 
